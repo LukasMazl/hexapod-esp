@@ -1,6 +1,6 @@
 WIFI_SSID = "wifi_name"
 WIFI_PASSWORD = ""
-AP_SSID = "TEST"
+AP_SSID = "Rc_car"
 AP_PASSWORD = "123456789"
 CREATE_AP = True
 HTTP_SERVER_ON = False
